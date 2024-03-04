@@ -5,10 +5,10 @@
 /*This is a program that uses printf statement to draw shapes */
 int main ()
 {
-    printf("\n                ***             ");
     printf("\n                 **               ");
     printf("\n                  *                 ");
     printf("hello world");
+    printf("bye");
     return 0;
 
 
